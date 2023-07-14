@@ -4,7 +4,7 @@
 <p>📖 Cursando Engenharia de Software na Estácio</p>
 <p>📖 Estudando Front-end na Dio.me</p>
 <p>🎓 Cursos finalizados:</p>
-<img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png" width="30px">
+<img src="HTML5_Badge.png" width="30px">
 <!---
 brenndalandim/brenndalandim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
