@@ -1,7 +1,7 @@
 <p>👋 Oi, me chamo Brennda </p>
 <p>📍 Rio de Janeiro</p>
-<p>👀 Buscando carreira FullStack</p>
-<p>📖 Cursando Engenharia de Software na Estácio</p>
+<p>👀 Ainda decidindo qual carreira vou seguir...</p>
+<p>📖 Cursando Engenharia de Software na Infnet</p>
 <p>📖 Estudando Front-end na Dio.me</p>
 <p>🎓 Cursos finalizados:</p>
 <img src="HTML5_Badge.png" width="30px">
